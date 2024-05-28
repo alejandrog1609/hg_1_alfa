@@ -1,1 +1,3 @@
-# hg_1_alfa
+# Alfa
+- [X] Daniel Figueroa  (Caracas) 
+- [ ] Bravo Andres Urdaneta (Maracaibo)
