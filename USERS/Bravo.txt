@@ -1,0 +1,7 @@
+# Tipo de usuario
+- [ ] Alfa
+- [X] Bravo 
+
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [X] Hotfix
